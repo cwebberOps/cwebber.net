@@ -21,7 +21,7 @@ So, anyone that actually thinks I know Ruby, probably has never actually looked 
 
 ### Have I ever mentioned how much I dislike CPAN?
 
-Whenever I went to go do anything in Perl, I found myself reaching for a module from CPAN. The CPAN discussion is probably worth its own discussion, and, to be fair, has probably gotten a bit better since the last time I tackled this. But, as a result of the pain of CPAN and the nature of the environment I was working in at the time, installing new Perl modules wasn't an option and even if it was, it wasn't really feasible. 
+Whenever I went to go do anything in Perl, I found myself reaching for a module from CPAN. The CPAN topic is probably worth its own discussion, and, to be fair, has probably gotten a bit better since the last time I tackled this. But, as a result of the pain of CPAN and the nature of the environment I was working in at the time, installing new Perl modules wasn't an option and even if it was, it wasn't really feasible. 
 
 Enter Ruby. As a result of running Puppet everywhere, I had Ruby everywhere for free. Combine that with the fact that the Ruby Standard Library is kinda awesome, you get the ability to do some phenomenal things. Since most of my job involved ALL of the systems, I needed to be able to write scripts that would work everywhere in our infrastructure. With the power of Ruby's Standard Library and the fact that the code was actually readable, even a week later in most cases, it made a great way to do systems stuff, everywhere.
 
