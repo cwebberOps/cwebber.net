@@ -15,3 +15,5 @@ But, as the title of this post and text have already alluded to, I am moving on 
 I am super excited to be taking on my first leadership role and even more excited to be doing it at Chef. I am going to be the Engineering Lead of the newly formed Corporate Infrastructure and Applications team. This team will help to be the catalyst that speeds delight in many of the groups that fall outside of engineering. 
 
 As excited as I am about the new adventures that come with leading a team, I am even more excited for what my team has been tasked with. This team will focus on one of my favorite facets of IT... helping to improve the internal business processes. While over the last 10 months I have struggled to explain to my non-tech family and friends what I did as a Community Software Engineer, this new role is much easier to relate with. Sadly, we all have stories of, "Well, if IT just listened to what we need..." This team will work to actually listen and help build those things that are actually needed.
+
+So... Here is to a wonderful start to a new year. 
