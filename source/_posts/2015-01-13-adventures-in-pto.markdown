@@ -3,7 +3,7 @@ layout: post
 title: "Adventures in PTO"
 date: 2015-01-13 06:22:29 -0800
 comments: true
-categories: chef, pto
+categories: chef pto
 ---
 For anyone that was watching Twitter last week, you probably noticed that all of Chef Software headed to Seattle for Rally Week. You may have also noticed that I wasn't there. I was on PTO. It is a culture that allows this sort of thing that has really given me confidence in the "Unlimited" PTO model and really has me thinking about all the negatives folks have pointed out. 
 
