@@ -5,7 +5,7 @@ date: 2015-11-06 07:00:48 -0800
 comments: true
 categories: delivery
 ---
-Back in late December/early January, I took on a new role as the Engineering Lead of Corporate Infrastructure and Applications at Chef. As I started to understand my new role, one of the things I set out to do was figure out what our standard stacks, and deploy patterns were going to be. As fate would have it, in early March I got a ping in from one of the folks in marketing about a crazy idea they had about the ChefConf keynote.
+Back in late December/early January, I took on a new role as the Engineering Lead of Corporate Infrastructure and Applications at Chef. As I started to understand my new role, one of the things I set out to do was figure out what our standard stacks and deploy patterns were going to be. As fate would have it, in early March I got a ping in from one of the folks in marketing about a crazy idea they had about the ChefConf keynote.
 
 With three and a half weeks left before ChefConf, he said, "we want to deliver the announcement about Delivery on stage at ChefConf using Delivery." Within about two weeks I had built a new pipeline, using Delivery, that would get our corporate website, [https://www.chef.io](https://www.chef.io), deployed. As an aside, the decision to move to Fastly as part of this was probably almost as important as moving to Delivery itself.
 
