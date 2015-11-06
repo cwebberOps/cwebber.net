@@ -12,6 +12,7 @@ With three and a half weeks left before ChefConf, he said, "we want to deliver t
 I am now a convert. The idea of managing an environment operationally, without Delivery or something very close to it, makes me shudder. It has fundamentally changed the way I think about what I do as a professional. The key distinguishing fact, for me anyway, is that we use Delivery to deliver services, not just cookbooks, not just application code, but services.
 
 At this point, my team is already delivering lots of things with Delivery:
+
 - [https://www.chef.io](https://www.chef.io)
 - [https://learn.chef.io](https://learn.chef.io)
 - [https://downloads.chef.io](https://downloads.chef.io)
