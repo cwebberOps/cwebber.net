@@ -10,6 +10,7 @@ Writing about tech was always time consuming and not always easy to get into the
 Contrast that with management. Am I a good manager? I think so? I hope so? My boss would have said something if I was sucking, right? Are the things I am doing just side effects or are they actually doing what I expect? There really is no way to be sure. This makes it incredibly hard to write about… I can tell you the books I have read, I can even on occasion, explain why I feel the way I do. But. to put down concretely that I am doing it right seems so artificial and likely a lie.
 
 The things I know for sure:
+
 - I have an awesome team.
 - I have an awesome boss.
 - There is more experience to gain, no matter how many books I read.
