@@ -5,8 +5,6 @@ date: 2016-09-03 19:53:07 -0700
 comments: true
 categories: management manager
 ---
-Manager vs Individual Contributor
-
 One of the more common things I have heard over my time as a manager is the idea that you can be an Individual Contributor or a Manager... Pick one. They are different jobs, etc, etc, etc. As we hear in the blog posts, as an Engineering Manager I shouldn't be writing code, I shouldn't be solving the problem. Instead, I should be working on leading my team, and focusing on their career growth and helping them to find their path.
 
 Like so many other things, I ended up at this false dichotomy, a choice of either, or. For me personally, I just accepted that I wasn't mature enough in my journey and would figure out how to not get involved in the technical details like writing code at some point. Some day I would grow up and would be enlightened enough to understand how to do that or I would have enough staff so I didn't have to write code or manage instances. The problem is, as I realized tonight, that I will fail as a manager if I stop doing those things.
