@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://cwebber.net
+url: https://cwebber.net
 title: cwebber.net
-subtitle: Random thoughts about life and systems administration
+subtitle: Random thoughts about life, ops, dev, and management
 author: Christopher Webber
 simple_search: https://www.google.com/search
 description:
